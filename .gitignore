@@ -2,3 +2,5 @@
 /.vscode
 /venv
 ex_dictionaries.py
+test_ps4a.py
+/ProblemSet4/__pycache__
