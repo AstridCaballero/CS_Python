@@ -6,3 +6,4 @@ test_ps4a.py
 /ProblemSet4/__pycache__
 *.pdf
 *.txt
+*.icloud
